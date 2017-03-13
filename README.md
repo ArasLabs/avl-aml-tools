@@ -13,12 +13,14 @@ Release notes/descriptions for the original project posted on the previous Aras 
 
 Release | Notes
 --------|--------
+[v2.0](https://github.com/ArasLabs/avl-aml-tools/releases/tag/v2.0) | 9.1.0 version. No changes, just updated to import into 9.1.0 There is a README.TXT file in the Zip that explains the installation and has some notes about alternate implementation ideas.
 [v1.0](https://github.com/ArasLabs/avl-aml-tools/releases/tag/v1.0) | 8.2.0 Version of this package. See the README.TXT file inside the ZIP for installation instructions and usage notes.
 
 #### Supported Aras Versions
 
 Project | Aras
 --------|------
+[v2.0](https://github.com/ArasLabs/avl-aml-tools/releases/tag/v2.0) | Aras 9.1.0
 [v1.0](https://github.com/ArasLabs/avl-aml-tools/releases/tag/v1.0) | Aras 8.2.0
 
 > ###### *Please note: Aras Community Projects are provided on an "as-is" basis.*
